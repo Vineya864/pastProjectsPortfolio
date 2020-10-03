@@ -1,0 +1,5 @@
+﻿  Alfred.cpp
+C:\Users\aj-vi\source\repos\replyBot\replyBot\Alfred.cpp(94,11): warning C4018: '<': signed/unsigned mismatch
+  replyBot.cpp
+  Generating Code...
+  replyBot.vcxproj -> C:\Users\aj-vi\source\repos\replyBot\Debug\replyBot.exe
