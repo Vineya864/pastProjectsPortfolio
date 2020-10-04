@@ -1,0 +1,142 @@
+*{}
+
+header{
+	
+	
+		padding: 2.1em ;
+	background-color:#A9A9A9;
+	
+}
+header #log-in{
+	text-align:right;
+	
+}
+header a{
+	text-decoration: none;
+	color:black;
+	font-size:1.125em;
+}
+
+
+h1{
+	font-size:3.125em ;
+	text-align:center;
+}
+
+
+Body{
+}
+main{
+	
+	
+  align-items: center;
+  justify-content: space-between;
+  width: 800px;
+  margin: 0 auto;
+  font-size:1.25em;
+  text-align:center;
+}
+main ul{
+	text-align:left;
+	
+}
+#sign-up button{
+	margin: 3.125em 12.5em;
+
+	display: inline-block;
+  border-radius: 3.125em;
+  background-color: #909090;
+  border: none;
+  color: black;
+  text-align: center;
+  font-size: 1.75em;
+  
+	padding: 3.125em 3.75px;
+  width: 60%;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 0.3125em 3.8em;
+}
+
+#sign-up button:hover {
+
+  background-color: #A9A9A9;
+  color: black;
+
+
+}
+#sign-up button:active {
+ /* background-color: #3e8e41;*/
+  box-shadow: 0 2px #666;
+  transform: translateY(7px);
+}
+
+
+
+
+#extra-reasons ul{
+
+	font-size:1.5em;
+}
+.quotes {
+	display:flex;
+	  background-color:white;
+ justify-content: space-between;
+
+}
+.quotes footer{
+	background-color:white;
+font-size:0.75em;
+	font-style:italic;
+	text-align:right;
+	
+	
+}
+.quotes blockquote {
+	
+	border:5px; 
+	border-style:solid; 
+	border-color:#A9A9A9;
+	
+}
+.quotes blockquote footer::before {
+  content: "- "
+}
+
+ #testimonial h2{
+	text-align:center;
+	 
+  }
+
+#deal-again button{
+	 border-radius: 2.125em;
+	 margin:1em;
+
+}
+#deal-again h3{
+	margin:0em;
+	
+}
+#deal-again button:active {
+ /* background-color: #3e8e41;*/
+  box-shadow: 0 2px #666;
+  transform: translateY(7px);
+}
+#account-creation{
+	margin:4em;
+	text-align:center;
+	
+	
+}
+.col-md-6 dash-component
+
+
+footer{
+	
+	background-color:#A9A9A9;
+	text-align:center;
+	
+  
+
+	
+}

@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="EN">
+
+<head>
+	<meta charset ="UTF-8"/>
+	  <link href="https://cdnjs.cloudflare.com/ajax/libs/normalize/4.2.0/normalize.min.css" rel="stylesheet" />
+	<link href="css/style.css" rel="stylesheet" />
+	<link href="css/sizing.css" rel="stylesheet" />
+		<script src= "js/validate_password.js">
+		</script>
+				<script src= "js/mainScript.js">
+		</script>
+	<title> Fitness Website		
+	</title>
+</head>
+
+<body>
+<header id="page-header">  <a href="fitnessWeb.html">Fitness Website</a> 
+		<form id="log-in"><input type="Email"
+			placeholder="Valid Email Address"
+			required
+			pattern=".+(\.edu|\.ac\.uk)"
+			title="email" />
+		<input type="password"
+			placeholder="Password"
+			required 
+			title="password"/>
+   
+		<input type="submit"
+			value="Sign In" />
+	
+	</form>
+	<section id="nav-bar">
+			<div class="container">
+			 <div class="row">
+        <div class="nav-1"><a href="fitnessWeb.html">Home</a></div>
+        <div class="nav-2 col-md-6"><a href="dashboard.html">Dashboard</a></div>
+        
+      </div>
+	  </div>
+	</header>
+	
+	<main>
+	<section id="account-creation">
+	<h1> New Account</h1>
+		<form id="sign-up">
+			<label for= "firstName"> First name</label> 
+			<input type="text" id="firstName"
+				placeHolder="First Name"
+				required
+				title="first Name"/>
+	<br/><br/>
+			<label for= "surname"> Surname </label>
+			<input type="text" id="surname"
+					placeHolder="Surname"
+					required
+					title="surname"/>
+	<br/><br/>
+	
+			<label for="date"> Date of Birth: </label> 
+			<input type="date" id="date"
+		
+					required
+					title="date of birth"/>
+			
+	<br/><br/>
+		<label for= "email"> Email Address </label>
+		<input type="Email" id="email"
+			placeholder="Valid Email Address"
+			required
+			pattern=".+(\.edu|\.ac\.uk)"
+			title="email" />
+			<br/><br/>
+		<label for= "pass"> Password </label>
+		<input type="password" id="pass"
+			placeholder="Password"
+			required 
+			title="password"/>
+   <br/><br/>
+		<label for= "passwordConfirm">Confirm your Password </label>
+		<input type="password" id="passwordConfirm"
+			placeholder="Password"
+			required 
+			title="password"/>
+   <br/><br/>
+		<input type="submit"
+			value="Sign In" />
+	
+	</form>
+	</section>
+	</main>
+<footer id="page-footer"> example@email-address.com <br/>
+	 <a href="https://facebook.com">
+         <img alt="facebook_Link" src="css/facebookPhoto.png"
+         width="15" height="15">
+      </a>
+	  <a href="https://twitter.com">
+         <img alt="twitter_Link" src="css/twitterPhoto.png"
+         width="15" height="15">
+      </a>
+	  
+	<br/>
+	Copyright_Lorem ipsum dolor sit amet,<br/> consectetur adipiscing elit. Morbi massa nibh,<br/> semper scelerisque diam id, facilisis convallis eros.   <br/> 
+	</footer>
+	
+</html>
