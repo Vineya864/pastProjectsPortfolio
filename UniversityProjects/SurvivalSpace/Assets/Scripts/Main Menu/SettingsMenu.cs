@@ -17,10 +17,15 @@ public class SettingsMenu : MonoBehaviour
 
     public Toggle fullscreenToggle;
 
+    public Slider sfxSlider;
+    public Slider musicSlider;
+    public Slider masterSlider;
+
+    
+
     // Start is called before the first frame update
     void Start()
     {
-
         //initialise array with all possible resolutions
         resolutions = Screen.resolutions;
 
@@ -63,6 +68,22 @@ public class SettingsMenu : MonoBehaviour
         {
             fullscreenToggle.isOn = false;
         }
+
+        if(PlayerPrefs.HasKey("MasterVolume"))
+        {
+            masterSlider.value = PlayerPrefs.GetFloat("MasterVolume");
+        }
+        if (PlayerPrefs.HasKey("MusicVolume"))
+        {
+            musicSlider.value = PlayerPrefs.GetFloat("MusicVolume");
+        }
+        if (PlayerPrefs.HasKey("SFXVolume"))
+        {
+            sfxSlider.value = PlayerPrefs.GetFloat("SFXVolume");
+        }
+
+        GetComponent<CanvasGroup>().alpha = 1;
+        gameObject.SetActive(false);
     }
 
     public void setResolution(int resolutionIndex)
@@ -78,16 +99,20 @@ public class SettingsMenu : MonoBehaviour
 
     public void setMasterVolume(float volume)
     {
-        masterMixer.SetFloat("masterVolume", volume);
+        masterMixer.SetFloat("masterVolume", Mathf.Log10(volume) * 20);
+        PlayerPrefs.SetFloat("MasterVolume", volume);
     }
 
     public void setSFXVolume(float volume)
     {
-        sfxMixer.SetFloat("sfxVolume", volume);
+        sfxMixer.SetFloat("sfxVolume", Mathf.Log10(volume) * 20);
+        PlayerPrefs.SetFloat("SFXVolume", volume);
     }
 
     public void setMusicVolume(float volume)
     {
-        musicMixer.SetFloat("musicVolume", volume);
+        musicMixer.SetFloat("musicVolume", Mathf.Log10(volume) * 20);
+        PlayerPrefs.SetFloat("MusicVolume", volume);
     }
+
 }

@@ -6,6 +6,9 @@ using UnityEngine;
 
 public class Obstacles : MonoBehaviourPunCallbacks, IPunObservable
 {
+    /// <summary>
+	/// class thatt determins obsitcle behaviour need to make sure object has a mesh collider attached
+	/// </summary>
     [SerializeField] private int obstacleHealth ;
     [SerializeField] private GameObject explosionParticle;
 
@@ -18,8 +21,14 @@ public class Obstacles : MonoBehaviourPunCallbacks, IPunObservable
     private float Ypos;
     private float Zpos;
 
-    private bool positionSet = false;
+   
 
+   // Player host;
+   /// <summary>
+   /// information to synce between players
+   /// </summary>
+   /// <param name="stream"></param>
+   /// <param name="info"></param>
     public void OnPhotonSerializeView(PhotonStream stream, PhotonMessageInfo info)
     {
         if (stream.IsWriting)
@@ -53,7 +62,6 @@ public class Obstacles : MonoBehaviourPunCallbacks, IPunObservable
             else if (movement == 2)
             {
                 transform.Rotate(0, 0, 2 * Time.deltaTime);
-
             }
             else if (movement == 3)
             {
@@ -75,10 +83,6 @@ public class Obstacles : MonoBehaviourPunCallbacks, IPunObservable
         {
             collision.gameObject.GetComponent<Player>().hitDetected(1, null);
         }
-        else if (collision.transform.tag == "Bullet")
-		{
-            reduceHealth(collision.gameObject.GetComponent<Bullet>().getDamage());
-		}
     }
 
     /// <summary>
@@ -87,13 +91,13 @@ public class Obstacles : MonoBehaviourPunCallbacks, IPunObservable
 	/// <param name="collision">
 	/// the object that has hit the object
 	/// </param>
-    private void reduceHealth(int damage)
+    public void reduceHealth(int damage)
 	{
         obstacleHealth = obstacleHealth - damage;
 
         if (obstacleHealth <= 0)
 		{
-            FindObjectOfType<AudioManager>().Play("MeteorExplode");
+            FindObjectOfType<AudioManager>().Play("MeteorExplode", transform.position);
             Instantiate(explosionParticle, transform.position, Quaternion.identity);
             photonView.RPC("Despawn", RpcTarget.All);
         }
@@ -105,14 +109,31 @@ public class Obstacles : MonoBehaviourPunCallbacks, IPunObservable
         notDestroyed = false;
         GetComponent<Obstacles>().GetComponent<MeshRenderer>().enabled=false;
         GetComponent<MeshCollider>().enabled = false;
+        Invoke("Respawn", 50);
+    }
+    /// <summary>
+	/// respawn the object
+	/// </summary>
+    public void Respawn()
+    {
+        notDestroyed = true;
+        GetComponent<Obstacles>().GetComponent<MeshRenderer>().enabled = true;
+        GetComponent<MeshCollider>().enabled = true;
+        obstacleHealth = 20;
     }
 
     private void setPosition()
 	{
-        Xpos = Random.Range(-160, 280);
-        Ypos = Random.Range(-160, 280);
-        Zpos = Random.Range(-160, 280);
-        transform.position = new Vector3(Xpos,Ypos,Zpos);
-        positionSet = true;
+       // Xpos = Random.Range(-160, 280);
+       // Ypos = Random.Range(-160, 280);
+      //  Zpos = Random.Range(-160, 280);
+     //   transform.position = new Vector3(Xpos,Ypos,Zpos);
+     //   positionSet = true;
+	}
+
+    //facilitating testing
+    public int getHealth()
+	{
+     return   obstacleHealth;
 	}
 }

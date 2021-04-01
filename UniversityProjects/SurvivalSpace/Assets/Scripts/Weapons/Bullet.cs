@@ -39,6 +39,8 @@ public class Bullet : MonoBehaviourPunCallbacks
         this.movement = movement;
         this.damage = damage;
 
+
+       
         FindObjectOfType<AudioManager>().Play("LaserSound1");
     }
 
@@ -47,7 +49,11 @@ public class Bullet : MonoBehaviourPunCallbacks
     /// </summary>
     private void Update()
     {
-       transform.position += movement * speed * Time.deltaTime; 
+       transform.position += movement * speed * Time.deltaTime;
+        
+
+        
+
     }
 
     /// <summary>
@@ -78,8 +84,6 @@ public class Bullet : MonoBehaviourPunCallbacks
             if (collision.transform.tag == "Player")
             {
                 collision.gameObject.GetComponent<Player>().hitDetected(getDamage(), owner.GetComponent<Player>());
-                //collision.gameObject.GetPhotonView().RPC("hitDetected", RpcTarget.All, damage);
-                Debug.Log(getDamage());
             }
             else if (collision.transform.tag == "Mine")
             {
