@@ -1,0 +1,56 @@
+*{}
+
+header{
+	
+	
+		padding: 2.1em ;
+	background-color:#A9A9A9;
+	
+}
+
+header {
+	text-decoration: none;
+	color:black;
+	font-size:1.55em;
+}
+body{
+	text-align:center;
+	
+}
+
+h1{
+	font-size:3.125em ;
+	text-align:center;
+}
+
+canvas {
+    border:1px solid #d3d3d3;
+    background-color: #000000;
+}
+#main{
+	
+	
+  align-items: center;
+  justify-content: space-between;
+
+  width: 800px;
+  margin: 0 auto;
+  font-size:1.25em;
+  text-align:center;
+}
+
+
+
+footer{
+	
+	background-color:#A9A9A9;
+	text-align:center;
+	
+  
+
+	
+}
+#shhh{
+	font-size:0.55em;
+  text-align:center;
+}
