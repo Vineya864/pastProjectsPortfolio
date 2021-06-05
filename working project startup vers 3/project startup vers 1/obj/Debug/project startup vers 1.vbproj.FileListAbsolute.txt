@@ -1,0 +1,209 @@
+\\ccgsintake12\12VineyA$\vb examples for project\project startup vers 1\project startup vers 1\bin\Debug\project startup vers 1.exe.config
+\\ccgsintake12\12VineyA$\vb examples for project\project startup vers 1\project startup vers 1\bin\Debug\project startup vers 1.exe
+\\ccgsintake12\12VineyA$\vb examples for project\project startup vers 1\project startup vers 1\bin\Debug\project startup vers 1.pdb
+\\ccgsintake12\12VineyA$\vb examples for project\project startup vers 1\project startup vers 1\bin\Debug\project startup vers 1.xml
+\\ccgsintake12\12VineyA$\vb examples for project\project startup vers 1\project startup vers 1\obj\Debug\project_startup_vers_1.Resources.resources
+\\ccgsintake12\12VineyA$\vb examples for project\project startup vers 1\project startup vers 1\obj\Debug\project startup vers 1.vbproj.GenerateResource.Cache
+\\ccgsintake12\12VineyA$\vb examples for project\project startup vers 1\project startup vers 1\obj\Debug\project startup vers 1.exe
+\\ccgsintake12\12VineyA$\vb examples for project\project startup vers 1\project startup vers 1\obj\Debug\project startup vers 1.xml
+\\ccgsintake12\12VineyA$\vb examples for project\project startup vers 1\project startup vers 1\obj\Debug\project startup vers 1.pdb
+\\ccgsintake12\12VineyA$\vb examples for project\project startup vers 1\project startup vers 1\obj\Debug\project_startup_vers_1.mainMenu.resources
+\\ccgsintake12\12VineyA$\vb examples for project\project startup vers 1\project startup vers 1\obj\Debug\project_startup_vers_1.compStart.resources
+\\ccgsintake12\12VineyA$\vb examples for project\project startup vers 1\project startup vers 1\obj\Debug\project_startup_vers_1.weaponSelection.resources
+\\ccgsintake12\12VineyA$\vb examples for project\project startup vers 1\project startup vers 1\bin\Debug\FencingCompData.mdb
+C:\Users\Andrew\Desktop\project startup vers 1\project startup vers 1\bin\Debug\FencingCompData.mdb
+C:\Users\Andrew\Desktop\project startup vers 1\project startup vers 1\bin\Debug\project startup vers 1.exe.config
+C:\Users\Andrew\Desktop\project startup vers 1\project startup vers 1\bin\Debug\project startup vers 1.exe
+C:\Users\Andrew\Desktop\project startup vers 1\project startup vers 1\bin\Debug\project startup vers 1.pdb
+C:\Users\Andrew\Desktop\project startup vers 1\project startup vers 1\bin\Debug\project startup vers 1.xml
+C:\Users\Andrew\Desktop\project startup vers 1\project startup vers 1\obj\Debug\project startup vers 1.vbprojResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\project startup vers 1\project startup vers 1\obj\Debug\project_startup_vers_1.mainMenu.resources
+C:\Users\Andrew\Desktop\project startup vers 1\project startup vers 1\obj\Debug\project_startup_vers_1.compStart.resources
+C:\Users\Andrew\Desktop\project startup vers 1\project startup vers 1\obj\Debug\project_startup_vers_1.Resources.resources
+C:\Users\Andrew\Desktop\project startup vers 1\project startup vers 1\obj\Debug\project_startup_vers_1.weaponSelection.resources
+C:\Users\Andrew\Desktop\project startup vers 1\project startup vers 1\obj\Debug\project startup vers 1.vbproj.GenerateResource.Cache
+C:\Users\Andrew\Desktop\project startup vers 1\project startup vers 1\obj\Debug\project startup vers 1.vbproj.CoreCompileInputs.cache
+C:\Users\Andrew\Desktop\project startup vers 1\project startup vers 1\obj\Debug\project startup vers 1.exe
+C:\Users\Andrew\Desktop\project startup vers 1\project startup vers 1\obj\Debug\project startup vers 1.xml
+C:\Users\Andrew\Desktop\project startup vers 1\project startup vers 1\obj\Debug\project startup vers 1.pdb
+\\ccgsintake12\12VineyA$\Desktop\working project startup vers 1\project startup vers 1\bin\Debug\project startup vers 1.exe.config
+\\ccgsintake12\12VineyA$\Desktop\working project startup vers 1\project startup vers 1\obj\Debug\project startup vers 1.exe
+\\ccgsintake12\12VineyA$\Desktop\working project startup vers 1\project startup vers 1\obj\Debug\project startup vers 1.xml
+\\ccgsintake12\12VineyA$\Desktop\working project startup vers 1\project startup vers 1\obj\Debug\project startup vers 1.pdb
+\\ccgsintake12\12VineyA$\Desktop\working project startup vers 1\project startup vers 1\bin\Debug\FencingCompData.mdb
+\\ccgsintake12\12VineyA$\Desktop\working project startup vers 1\project startup vers 1\bin\Debug\project startup vers 1.exe
+\\ccgsintake12\12VineyA$\Desktop\working project startup vers 1\project startup vers 1\bin\Debug\project startup vers 1.pdb
+\\ccgsintake12\12VineyA$\Desktop\working project startup vers 1\project startup vers 1\bin\Debug\project startup vers 1.xml
+\\ccgsintake12\12VineyA$\Desktop\working project startup vers 1\project startup vers 1\obj\Debug\project startup vers 1.vbprojResolveAssemblyReference.cache
+\\ccgsintake12\12VineyA$\Desktop\working project startup vers 1\project startup vers 1\obj\Debug\project_startup_vers_1.mainMenu.resources
+\\ccgsintake12\12VineyA$\Desktop\working project startup vers 1\project startup vers 1\obj\Debug\project_startup_vers_1.compStart.resources
+\\ccgsintake12\12VineyA$\Desktop\working project startup vers 1\project startup vers 1\obj\Debug\project_startup_vers_1.Resources.resources
+\\ccgsintake12\12VineyA$\Desktop\working project startup vers 1\project startup vers 1\obj\Debug\project_startup_vers_1.weaponSelection.resources
+\\ccgsintake12\12VineyA$\Desktop\working project startup vers 1\project startup vers 1\obj\Debug\project startup vers 1.vbproj.GenerateResource.Cache
+\\ccgsintake12\12VineyA$\vb examples for project\working project startup vers 1\project startup vers 1\bin\Debug\project startup vers 1.exe.config
+\\ccgsintake12\12VineyA$\vb examples for project\working project startup vers 1\project startup vers 1\obj\Debug\project startup vers 1.exe
+\\ccgsintake12\12VineyA$\vb examples for project\working project startup vers 1\project startup vers 1\obj\Debug\project startup vers 1.xml
+\\ccgsintake12\12VineyA$\vb examples for project\working project startup vers 1\project startup vers 1\obj\Debug\project startup vers 1.pdb
+\\ccgsintake12\12VineyA$\vb examples for project\working project startup vers 1\project startup vers 1\bin\Debug\FencingCompData.mdb
+\\ccgsintake12\12VineyA$\vb examples for project\working project startup vers 1\project startup vers 1\bin\Debug\project startup vers 1.exe
+\\ccgsintake12\12VineyA$\vb examples for project\working project startup vers 1\project startup vers 1\bin\Debug\project startup vers 1.pdb
+\\ccgsintake12\12VineyA$\vb examples for project\working project startup vers 1\project startup vers 1\bin\Debug\project startup vers 1.xml
+\\ccgsintake12\12VineyA$\vb examples for project\working project startup vers 1\project startup vers 1\obj\Debug\project startup vers 1.vbprojResolveAssemblyReference.cache
+\\ccgsintake12\12VineyA$\vb examples for project\working project startup vers 1\project startup vers 1\obj\Debug\project_startup_vers_1.mainMenu.resources
+\\ccgsintake12\12VineyA$\vb examples for project\working project startup vers 1\project startup vers 1\obj\Debug\project_startup_vers_1.compStart.resources
+\\ccgsintake12\12VineyA$\vb examples for project\working project startup vers 1\project startup vers 1\obj\Debug\project_startup_vers_1.Resources.resources
+\\ccgsintake12\12VineyA$\vb examples for project\working project startup vers 1\project startup vers 1\obj\Debug\project_startup_vers_1.weaponSelection.resources
+\\ccgsintake12\12VineyA$\vb examples for project\working project startup vers 1\project startup vers 1\obj\Debug\project startup vers 1.vbproj.GenerateResource.Cache
+\\ccgsintake12\12VineyA$\vb examples for project\working project startup vers 1\project startup vers 1\obj\Debug\project_startup_vers_1.maxPoint.resources
+\\ccgsintake12\12VineyA$\vb examples for project\working project startup vers 1\project startup vers 1\obj\Debug\project_startup_vers_1.Scoresheet.resources
+\\ccgsintake12\12VineyA$\vb examples for project\working project startup vers 2\project startup vers 1\bin\Debug\project startup vers 1.exe.config
+\\ccgsintake12\12VineyA$\vb examples for project\working project startup vers 2\project startup vers 1\obj\Debug\project startup vers 1.exe
+\\ccgsintake12\12VineyA$\vb examples for project\working project startup vers 2\project startup vers 1\obj\Debug\project startup vers 1.xml
+\\ccgsintake12\12VineyA$\vb examples for project\working project startup vers 2\project startup vers 1\obj\Debug\project startup vers 1.pdb
+\\ccgsintake12\12VineyA$\vb examples for project\working project startup vers 2\project startup vers 1\bin\Debug\FencingCompData.mdb
+\\ccgsintake12\12VineyA$\vb examples for project\working project startup vers 2\project startup vers 1\bin\Debug\project startup vers 1.exe
+\\ccgsintake12\12VineyA$\vb examples for project\working project startup vers 2\project startup vers 1\bin\Debug\project startup vers 1.pdb
+\\ccgsintake12\12VineyA$\vb examples for project\working project startup vers 2\project startup vers 1\bin\Debug\project startup vers 1.xml
+\\ccgsintake12\12VineyA$\vb examples for project\working project startup vers 2\project startup vers 1\obj\Debug\project startup vers 1.vbprojResolveAssemblyReference.cache
+\\ccgsintake12\12VineyA$\vb examples for project\working project startup vers 2\project startup vers 1\obj\Debug\project_startup_vers_1.mainMenu.resources
+\\ccgsintake12\12VineyA$\vb examples for project\working project startup vers 2\project startup vers 1\obj\Debug\project_startup_vers_1.compStart.resources
+\\ccgsintake12\12VineyA$\vb examples for project\working project startup vers 2\project startup vers 1\obj\Debug\project_startup_vers_1.maxPoint.resources
+\\ccgsintake12\12VineyA$\vb examples for project\working project startup vers 2\project startup vers 1\obj\Debug\project_startup_vers_1.Resources.resources
+\\ccgsintake12\12VineyA$\vb examples for project\working project startup vers 2\project startup vers 1\obj\Debug\project_startup_vers_1.Scoresheet.resources
+\\ccgsintake12\12VineyA$\vb examples for project\working project startup vers 2\project startup vers 1\obj\Debug\project_startup_vers_1.weaponSelection.resources
+\\ccgsintake12\12VineyA$\vb examples for project\working project startup vers 2\project startup vers 1\obj\Debug\project startup vers 1.vbproj.GenerateResource.Cache
+\\ccgsintake12\12VineyA$\vb examples for project\working project startup vers 2\project startup vers 1\obj\Debug\project_startup_vers_1.addcompetitors.resources
+\\ccgsintake12\12VineyA$\vb examples for project\working project startup vers 2\project startup vers 1\obj\Debug\project_startup_vers_1.results.resources
+\\ccgsintake12\12VineyA$\vb examples for project\working project startup vers 2\project startup vers 1\obj\Debug\project_startup_vers_1.progress.resources
+E:\working project startup vers 2\project startup vers 1\bin\Debug\FencingCompData.mdb
+E:\working project startup vers 2\project startup vers 1\bin\Debug\project startup vers 1.exe.config
+E:\working project startup vers 2\project startup vers 1\bin\Debug\project startup vers 1.exe
+E:\working project startup vers 2\project startup vers 1\bin\Debug\project startup vers 1.pdb
+E:\working project startup vers 2\project startup vers 1\bin\Debug\project startup vers 1.xml
+E:\working project startup vers 2\project startup vers 1\obj\Debug\project startup vers 1.vbprojResolveAssemblyReference.cache
+E:\working project startup vers 2\project startup vers 1\obj\Debug\project_startup_vers_1.addcompetitors.resources
+E:\working project startup vers 2\project startup vers 1\obj\Debug\project_startup_vers_1.mainMenu.resources
+E:\working project startup vers 2\project startup vers 1\obj\Debug\project_startup_vers_1.compStart.resources
+E:\working project startup vers 2\project startup vers 1\obj\Debug\project_startup_vers_1.maxPoint.resources
+E:\working project startup vers 2\project startup vers 1\obj\Debug\project_startup_vers_1.Resources.resources
+E:\working project startup vers 2\project startup vers 1\obj\Debug\project_startup_vers_1.progress.resources
+E:\working project startup vers 2\project startup vers 1\obj\Debug\project_startup_vers_1.results.resources
+E:\working project startup vers 2\project startup vers 1\obj\Debug\project_startup_vers_1.Scoresheet.resources
+E:\working project startup vers 2\project startup vers 1\obj\Debug\project_startup_vers_1.weaponSelection.resources
+E:\working project startup vers 2\project startup vers 1\obj\Debug\project startup vers 1.vbproj.GenerateResource.Cache
+E:\working project startup vers 2\project startup vers 1\obj\Debug\project startup vers 1.vbproj.CoreCompileInputs.cache
+E:\working project startup vers 2\project startup vers 1\obj\Debug\project startup vers 1.exe
+E:\working project startup vers 2\project startup vers 1\obj\Debug\project startup vers 1.xml
+E:\working project startup vers 2\project startup vers 1\obj\Debug\project startup vers 1.pdb
+E:\working project startup vers 2\project startup vers 1\obj\Debug\project_startup_vers_1.practice.resources
+\\ccgsintake12\12VineyA$\vb examples for project\working project startup vers 3\project startup vers 1\bin\Debug\project startup vers 1.exe.config
+\\ccgsintake12\12VineyA$\vb examples for project\working project startup vers 3\project startup vers 1\obj\Debug\project startup vers 1.exe
+\\ccgsintake12\12VineyA$\vb examples for project\working project startup vers 3\project startup vers 1\obj\Debug\project startup vers 1.xml
+\\ccgsintake12\12VineyA$\vb examples for project\working project startup vers 3\project startup vers 1\obj\Debug\project startup vers 1.pdb
+\\ccgsintake12\12VineyA$\vb examples for project\working project startup vers 3\project startup vers 1\bin\Debug\FencingCompData.mdb
+\\ccgsintake12\12VineyA$\vb examples for project\working project startup vers 3\project startup vers 1\bin\Debug\project startup vers 1.exe
+\\ccgsintake12\12VineyA$\vb examples for project\working project startup vers 3\project startup vers 1\bin\Debug\project startup vers 1.pdb
+\\ccgsintake12\12VineyA$\vb examples for project\working project startup vers 3\project startup vers 1\bin\Debug\project startup vers 1.xml
+\\ccgsintake12\12VineyA$\vb examples for project\working project startup vers 3\project startup vers 1\obj\Debug\project startup vers 1.vbprojResolveAssemblyReference.cache
+\\ccgsintake12\12VineyA$\vb examples for project\working project startup vers 3\project startup vers 1\obj\Debug\project_startup_vers_1.addcompetitors.resources
+\\ccgsintake12\12VineyA$\vb examples for project\working project startup vers 3\project startup vers 1\obj\Debug\project_startup_vers_1.mainMenu.resources
+\\ccgsintake12\12VineyA$\vb examples for project\working project startup vers 3\project startup vers 1\obj\Debug\project_startup_vers_1.compStart.resources
+\\ccgsintake12\12VineyA$\vb examples for project\working project startup vers 3\project startup vers 1\obj\Debug\project_startup_vers_1.maxPoint.resources
+\\ccgsintake12\12VineyA$\vb examples for project\working project startup vers 3\project startup vers 1\obj\Debug\project_startup_vers_1.Resources.resources
+\\ccgsintake12\12VineyA$\vb examples for project\working project startup vers 3\project startup vers 1\obj\Debug\project_startup_vers_1.practice.resources
+\\ccgsintake12\12VineyA$\vb examples for project\working project startup vers 3\project startup vers 1\obj\Debug\project_startup_vers_1.progress.resources
+\\ccgsintake12\12VineyA$\vb examples for project\working project startup vers 3\project startup vers 1\obj\Debug\project_startup_vers_1.results.resources
+\\ccgsintake12\12VineyA$\vb examples for project\working project startup vers 3\project startup vers 1\obj\Debug\project_startup_vers_1.Scoresheet.resources
+\\ccgsintake12\12VineyA$\vb examples for project\working project startup vers 3\project startup vers 1\obj\Debug\project_startup_vers_1.weaponSelection.resources
+\\ccgsintake12\12VineyA$\vb examples for project\working project startup vers 3\project startup vers 1\obj\Debug\project startup vers 1.vbproj.GenerateResource.Cache
+\\ccgsintake12\12VineyA$\vb examples for project\working project startup vers 3\project startup vers 1\obj\Debug\project_startup_vers_1.records.resources
+\\ccgsintake12\12VineyA$\vb examples for project\working project startup vers 3\project startup vers 1\obj\Debug\project_startup_vers_1.Compare.resources
+\\ccgsintake12\12VineyA$\vb examples for project\working project startup vers 3\project startup vers 1\obj\Debug\project_startup_vers_1.datePicker.resources
+\\ccgsintake12\12VineyA$\vb examples for project\working project startup vers 3\project startup vers 1\obj\Debug\project_startup_vers_1.loginwindow.resources
+\\ccgsintake12\12VineyA$\vb examples for project\working project startup vers 3\project startup vers 1\obj\Debug\project_startup_vers_1.newAccount.resources
+\\ccgsintake12\12VineyA$\vb examples for project\working project startup vers 3\project startup vers 1\obj\Debug\project_startup_vers_1.database.resources
+E:\working project startup vers 3\project startup vers 1\bin\Debug\FencingCompData.mdb
+E:\working project startup vers 3\project startup vers 1\bin\Debug\project startup vers 1.exe.config
+E:\working project startup vers 3\project startup vers 1\bin\Debug\project startup vers 1.exe
+E:\working project startup vers 3\project startup vers 1\bin\Debug\project startup vers 1.pdb
+E:\working project startup vers 3\project startup vers 1\bin\Debug\project startup vers 1.xml
+E:\working project startup vers 3\project startup vers 1\obj\Debug\project_startup_vers_1.addcompetitors.resources
+E:\working project startup vers 3\project startup vers 1\obj\Debug\project_startup_vers_1.Compare.resources
+E:\working project startup vers 3\project startup vers 1\obj\Debug\project_startup_vers_1.database.resources
+E:\working project startup vers 3\project startup vers 1\obj\Debug\project_startup_vers_1.datePicker.resources
+E:\working project startup vers 3\project startup vers 1\obj\Debug\project_startup_vers_1.loginwindow.resources
+E:\working project startup vers 3\project startup vers 1\obj\Debug\project_startup_vers_1.mainMenu.resources
+E:\working project startup vers 3\project startup vers 1\obj\Debug\project_startup_vers_1.compStart.resources
+E:\working project startup vers 3\project startup vers 1\obj\Debug\project_startup_vers_1.maxPoint.resources
+E:\working project startup vers 3\project startup vers 1\obj\Debug\project_startup_vers_1.Resources.resources
+E:\working project startup vers 3\project startup vers 1\obj\Debug\project_startup_vers_1.newAccount.resources
+E:\working project startup vers 3\project startup vers 1\obj\Debug\project_startup_vers_1.practice.resources
+E:\working project startup vers 3\project startup vers 1\obj\Debug\project_startup_vers_1.progress.resources
+E:\working project startup vers 3\project startup vers 1\obj\Debug\project_startup_vers_1.records.resources
+E:\working project startup vers 3\project startup vers 1\obj\Debug\project_startup_vers_1.results.resources
+E:\working project startup vers 3\project startup vers 1\obj\Debug\project_startup_vers_1.Scoresheet.resources
+E:\working project startup vers 3\project startup vers 1\obj\Debug\project_startup_vers_1.weaponSelection.resources
+E:\working project startup vers 3\project startup vers 1\obj\Debug\project startup vers 1.vbproj.GenerateResource.Cache
+E:\working project startup vers 3\project startup vers 1\obj\Debug\project startup vers 1.vbproj.CoreCompileInputs.cache
+E:\working project startup vers 3\project startup vers 1\obj\Debug\project startup vers 1.exe
+E:\working project startup vers 3\project startup vers 1\obj\Debug\project startup vers 1.xml
+E:\working project startup vers 3\project startup vers 1\obj\Debug\project startup vers 1.pdb
+\\ccgsintake12\12VineyA$\Desktop\back up\working project startup vers 3\project startup vers 1\bin\Debug\project startup vers 1.exe.config
+\\ccgsintake12\12VineyA$\Desktop\back up\working project startup vers 3\project startup vers 1\obj\Debug\project startup vers 1.exe
+\\ccgsintake12\12VineyA$\Desktop\back up\working project startup vers 3\project startup vers 1\obj\Debug\project startup vers 1.xml
+\\ccgsintake12\12VineyA$\Desktop\back up\working project startup vers 3\project startup vers 1\obj\Debug\project startup vers 1.pdb
+\\ccgsintake12\12VineyA$\vb examples for project\working project startup vers 3 ave point\project startup vers 1\bin\Debug\project startup vers 1.exe.config
+\\ccgsintake12\12VineyA$\vb examples for project\working project startup vers 3 ave point\project startup vers 1\obj\Debug\project startup vers 1.exe
+\\ccgsintake12\12VineyA$\vb examples for project\working project startup vers 3 ave point\project startup vers 1\obj\Debug\project startup vers 1.xml
+\\ccgsintake12\12VineyA$\vb examples for project\working project startup vers 3 ave point\project startup vers 1\obj\Debug\project startup vers 1.pdb
+E:\working project startup vers 3\project startup vers 1\obj\Debug\project startup vers 1.vbprojAssemblyReference.cache
+\\tsclient\Y\working project startup vers 3\project startup vers 1\bin\Debug\project startup vers 1.exe.config
+\\tsclient\Y\working project startup vers 3\project startup vers 1\obj\Debug\project startup vers 1.exe
+\\tsclient\Y\working project startup vers 3\project startup vers 1\obj\Debug\project startup vers 1.xml
+\\tsclient\Y\working project startup vers 3\project startup vers 1\obj\Debug\project startup vers 1.pdb
+\\tsclient\Y\working project startup vers 3\project startup vers 1\bin\Debug\FencingCompData.mdb
+\\tsclient\Y\working project startup vers 3\project startup vers 1\bin\Debug\project startup vers 1.exe
+\\tsclient\Y\working project startup vers 3\project startup vers 1\bin\Debug\project startup vers 1.pdb
+\\tsclient\Y\working project startup vers 3\project startup vers 1\bin\Debug\project startup vers 1.xml
+\\tsclient\Y\working project startup vers 3\project startup vers 1\obj\Debug\project_startup_vers_1.addcompetitors.resources
+\\tsclient\Y\working project startup vers 3\project startup vers 1\obj\Debug\project_startup_vers_1.Compare.resources
+\\tsclient\Y\working project startup vers 3\project startup vers 1\obj\Debug\project_startup_vers_1.database.resources
+\\tsclient\Y\working project startup vers 3\project startup vers 1\obj\Debug\project_startup_vers_1.datePicker.resources
+\\tsclient\Y\working project startup vers 3\project startup vers 1\obj\Debug\project_startup_vers_1.loginwindow.resources
+\\tsclient\Y\working project startup vers 3\project startup vers 1\obj\Debug\project_startup_vers_1.mainMenu.resources
+\\tsclient\Y\working project startup vers 3\project startup vers 1\obj\Debug\project_startup_vers_1.compStart.resources
+\\tsclient\Y\working project startup vers 3\project startup vers 1\obj\Debug\project_startup_vers_1.maxPoint.resources
+\\tsclient\Y\working project startup vers 3\project startup vers 1\obj\Debug\project_startup_vers_1.Resources.resources
+\\tsclient\Y\working project startup vers 3\project startup vers 1\obj\Debug\project_startup_vers_1.newAccount.resources
+\\tsclient\Y\working project startup vers 3\project startup vers 1\obj\Debug\project_startup_vers_1.practice.resources
+\\tsclient\Y\working project startup vers 3\project startup vers 1\obj\Debug\project_startup_vers_1.progress.resources
+\\tsclient\Y\working project startup vers 3\project startup vers 1\obj\Debug\project_startup_vers_1.records.resources
+\\tsclient\Y\working project startup vers 3\project startup vers 1\obj\Debug\project_startup_vers_1.results.resources
+\\tsclient\Y\working project startup vers 3\project startup vers 1\obj\Debug\project_startup_vers_1.Scoresheet.resources
+\\tsclient\Y\working project startup vers 3\project startup vers 1\obj\Debug\project_startup_vers_1.weaponSelection.resources
+\\tsclient\Y\working project startup vers 3\project startup vers 1\obj\Debug\project startup vers 1.vbproj.GenerateResource.Cache
+\\tsclient\X\working project startup vers 3\project startup vers 1\bin\Debug\project startup vers 1.exe.config
+\\tsclient\X\working project startup vers 3\project startup vers 1\obj\Debug\project startup vers 1.exe
+\\tsclient\X\working project startup vers 3\project startup vers 1\obj\Debug\project startup vers 1.xml
+\\tsclient\X\working project startup vers 3\project startup vers 1\obj\Debug\project startup vers 1.pdb
+\\tsclient\X\working project startup vers 3\project startup vers 1\bin\Debug\FencingCompData.mdb
+\\tsclient\X\working project startup vers 3\project startup vers 1\bin\Debug\project startup vers 1.exe
+\\tsclient\X\working project startup vers 3\project startup vers 1\bin\Debug\project startup vers 1.pdb
+\\tsclient\X\working project startup vers 3\project startup vers 1\bin\Debug\project startup vers 1.xml
+\\tsclient\X\working project startup vers 3\project startup vers 1\obj\Debug\project_startup_vers_1.addcompetitors.resources
+\\tsclient\X\working project startup vers 3\project startup vers 1\obj\Debug\project_startup_vers_1.Compare.resources
+\\tsclient\X\working project startup vers 3\project startup vers 1\obj\Debug\project_startup_vers_1.database.resources
+\\tsclient\X\working project startup vers 3\project startup vers 1\obj\Debug\project_startup_vers_1.datePicker.resources
+\\tsclient\X\working project startup vers 3\project startup vers 1\obj\Debug\project_startup_vers_1.loginwindow.resources
+\\tsclient\X\working project startup vers 3\project startup vers 1\obj\Debug\project_startup_vers_1.mainMenu.resources
+\\tsclient\X\working project startup vers 3\project startup vers 1\obj\Debug\project_startup_vers_1.compStart.resources
+\\tsclient\X\working project startup vers 3\project startup vers 1\obj\Debug\project_startup_vers_1.maxPoint.resources
+\\tsclient\X\working project startup vers 3\project startup vers 1\obj\Debug\project_startup_vers_1.Resources.resources
+\\tsclient\X\working project startup vers 3\project startup vers 1\obj\Debug\project_startup_vers_1.newAccount.resources
+\\tsclient\X\working project startup vers 3\project startup vers 1\obj\Debug\project_startup_vers_1.practice.resources
+\\tsclient\X\working project startup vers 3\project startup vers 1\obj\Debug\project_startup_vers_1.progress.resources
+\\tsclient\X\working project startup vers 3\project startup vers 1\obj\Debug\project_startup_vers_1.records.resources
+\\tsclient\X\working project startup vers 3\project startup vers 1\obj\Debug\project_startup_vers_1.results.resources
+\\tsclient\X\working project startup vers 3\project startup vers 1\obj\Debug\project_startup_vers_1.Scoresheet.resources
+\\tsclient\X\working project startup vers 3\project startup vers 1\obj\Debug\project_startup_vers_1.weaponSelection.resources
+\\tsclient\X\working project startup vers 3\project startup vers 1\obj\Debug\project startup vers 1.vbproj.GenerateResource.Cache

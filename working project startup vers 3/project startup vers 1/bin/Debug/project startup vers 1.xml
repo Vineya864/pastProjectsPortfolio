@@ -1,0 +1,408 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+projectstartupvers1
+</name>
+</assembly>
+<members>
+<member name="T:project_startup_vers_1.FencingCompDataDataSet1.compDataDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:project_startup_vers_1.FencingCompDataDataSet1.competitorDataDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:project_startup_vers_1.FencingCompDataDataSet1.ScoreDataDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:project_startup_vers_1.FencingCompDataDataSet1.compDataRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:project_startup_vers_1.FencingCompDataDataSet1.competitorDataRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:project_startup_vers_1.FencingCompDataDataSet1.ScoreDataRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:project_startup_vers_1.FencingCompDataDataSet1.compDataRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:project_startup_vers_1.FencingCompDataDataSet1.competitorDataRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:project_startup_vers_1.FencingCompDataDataSet1.ScoreDataRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:project_startup_vers_1.FencingCompDataDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:project_startup_vers_1.FencingCompDataDataSet1TableAdapters.compDataTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:project_startup_vers_1.FencingCompDataDataSet1TableAdapters.competitorDataTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:project_startup_vers_1.FencingCompDataDataSet1TableAdapters.ScoreDataTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:project_startup_vers_1.FencingCompDataDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(project_startup_vers_1.FencingCompDataDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:project_startup_vers_1.FencingCompDataDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(project_startup_vers_1.FencingCompDataDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:project_startup_vers_1.FencingCompDataDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(project_startup_vers_1.FencingCompDataDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:project_startup_vers_1.FencingCompDataDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:project_startup_vers_1.FencingCompDataDataSet1TableAdapters.TableAdapterManager.UpdateAll(project_startup_vers_1.FencingCompDataDataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:project_startup_vers_1.FencingCompDataDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:project_startup_vers_1.FencingCompDataDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:project_startup_vers_1.FencingCompDataDataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:project_startup_vers_1.FencingCompDataDataSet.comp_dataDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:project_startup_vers_1.FencingCompDataDataSet.competitor_dataDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:project_startup_vers_1.FencingCompDataDataSet.Score_dataDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:project_startup_vers_1.FencingCompDataDataSet.comp_dataRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:project_startup_vers_1.FencingCompDataDataSet.competitor_dataRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:project_startup_vers_1.FencingCompDataDataSet.Score_dataRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:project_startup_vers_1.FencingCompDataDataSet.comp_dataRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:project_startup_vers_1.FencingCompDataDataSet.competitor_dataRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:project_startup_vers_1.FencingCompDataDataSet.Score_dataRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:project_startup_vers_1.FencingCompDataDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:project_startup_vers_1.FencingCompDataDataSetTableAdapters.comp_dataTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:project_startup_vers_1.FencingCompDataDataSetTableAdapters.competitor_dataTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:project_startup_vers_1.FencingCompDataDataSetTableAdapters.Score_dataTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:project_startup_vers_1.FencingCompDataDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(project_startup_vers_1.FencingCompDataDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:project_startup_vers_1.FencingCompDataDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(project_startup_vers_1.FencingCompDataDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:project_startup_vers_1.FencingCompDataDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(project_startup_vers_1.FencingCompDataDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:project_startup_vers_1.FencingCompDataDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:project_startup_vers_1.FencingCompDataDataSetTableAdapters.TableAdapterManager.UpdateAll(project_startup_vers_1.FencingCompDataDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:project_startup_vers_1.FencingCompDataDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:project_startup_vers_1.FencingCompDataDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:project_startup_vers_1.FencingCompDataDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:project_startup_vers_1.projectDataSet.acountInfoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:project_startup_vers_1.projectDataSet.competitorDataDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:project_startup_vers_1.projectDataSet.compititionDataDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:project_startup_vers_1.projectDataSet.RefCompititionsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:project_startup_vers_1.projectDataSet.ScoreDataDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:project_startup_vers_1.projectDataSet.acountInfoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:project_startup_vers_1.projectDataSet.competitorDataRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:project_startup_vers_1.projectDataSet.compititionDataRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:project_startup_vers_1.projectDataSet.RefCompititionsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:project_startup_vers_1.projectDataSet.ScoreDataRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:project_startup_vers_1.projectDataSet.acountInfoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:project_startup_vers_1.projectDataSet.competitorDataRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:project_startup_vers_1.projectDataSet.compititionDataRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:project_startup_vers_1.projectDataSet.RefCompititionsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:project_startup_vers_1.projectDataSet.ScoreDataRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:project_startup_vers_1.projectDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:project_startup_vers_1.projectDataSetTableAdapters.acountInfoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:project_startup_vers_1.projectDataSetTableAdapters.competitorDataTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:project_startup_vers_1.projectDataSetTableAdapters.compititionDataTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:project_startup_vers_1.projectDataSetTableAdapters.RefCompititionsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:project_startup_vers_1.projectDataSetTableAdapters.ScoreDataTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:project_startup_vers_1.projectDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(project_startup_vers_1.projectDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:project_startup_vers_1.projectDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(project_startup_vers_1.projectDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:project_startup_vers_1.projectDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(project_startup_vers_1.projectDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:project_startup_vers_1.projectDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:project_startup_vers_1.projectDataSetTableAdapters.TableAdapterManager.UpdateAll(project_startup_vers_1.projectDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:project_startup_vers_1.projectDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:project_startup_vers_1.projectDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:project_startup_vers_1.projectDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:project_startup_vers_1.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:project_startup_vers_1.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:project_startup_vers_1.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:project_startup_vers_1.FencingCompDataDataSet2.competitorDataDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:project_startup_vers_1.FencingCompDataDataSet2.compititionDataDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:project_startup_vers_1.FencingCompDataDataSet2.RefCompititionsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:project_startup_vers_1.FencingCompDataDataSet2.ScoreDataDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:project_startup_vers_1.FencingCompDataDataSet2.competitorDataRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:project_startup_vers_1.FencingCompDataDataSet2.compititionDataRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:project_startup_vers_1.FencingCompDataDataSet2.RefCompititionsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:project_startup_vers_1.FencingCompDataDataSet2.ScoreDataRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:project_startup_vers_1.FencingCompDataDataSet2.competitorDataRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:project_startup_vers_1.FencingCompDataDataSet2.compititionDataRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:project_startup_vers_1.FencingCompDataDataSet2.RefCompititionsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:project_startup_vers_1.FencingCompDataDataSet2.ScoreDataRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:project_startup_vers_1.FencingCompDataDataSet2">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:project_startup_vers_1.FencingCompDataDataSet2TableAdapters.competitorDataTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:project_startup_vers_1.FencingCompDataDataSet2TableAdapters.compititionDataTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:project_startup_vers_1.FencingCompDataDataSet2TableAdapters.RefCompititionsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:project_startup_vers_1.FencingCompDataDataSet2TableAdapters.ScoreDataTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:project_startup_vers_1.FencingCompDataDataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(project_startup_vers_1.FencingCompDataDataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:project_startup_vers_1.FencingCompDataDataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(project_startup_vers_1.FencingCompDataDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:project_startup_vers_1.FencingCompDataDataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(project_startup_vers_1.FencingCompDataDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:project_startup_vers_1.FencingCompDataDataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:project_startup_vers_1.FencingCompDataDataSet2TableAdapters.TableAdapterManager.UpdateAll(project_startup_vers_1.FencingCompDataDataSet2)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:project_startup_vers_1.FencingCompDataDataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:project_startup_vers_1.FencingCompDataDataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:project_startup_vers_1.FencingCompDataDataSet2TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>
